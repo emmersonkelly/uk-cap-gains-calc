@@ -1,2 +1,3 @@
-# uk-cap-gains-calc
-uk-cap-gains-calc
+# Capital Gains Calculator
+
+Attempt to calculate UK capital gains given an input list of transactions.
